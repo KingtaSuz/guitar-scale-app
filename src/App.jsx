@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { Scale } from '@tonaljs/tonal';
+import { Scale } from 'tonal';
 
 const App = () => {
   const [root, setRoot] = useState('C');
